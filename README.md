@@ -1,7 +1,8 @@
 # Akmal Aulia, PhD, CPISM
 _Machine Learning Expert / Reservoir Simulation Engineer_  
+https://github.com/risuseful/my-resume/  
 https://orcid.org/0000-0002-1039-6163   
-https://github.com/risuseful/
+
 
 ## Summary
 - 11 years of experience in petroleum engineering.
