@@ -5,16 +5,18 @@ https://orcid.org/0000-0002-1039-6163
 
 
 ## Summary
-- 11 years of experience in petroleum engineering.
+
+- Developed several data science solutions for oil/gas industry. 
+- 11 years of experience in petroleum engineering. 
+- Published papers in data science and its applications in various areas: enhanced oil recovery, gas well surveillance, drilling fluid formulation, assisted history matching, reservoir simulation, and others. 
+- Excellent training and mentoring skills. 
+- Speaks English like a native speaker. Highly trained in applied mathematics: numerical mathematics, statistics, probability. 
 - Extensive experience in reservoir simulation software support and training. 
 - Reservoir engineering teaching experience in universities. 
 - Proficient in Petrel Reservoir Engineering, Petrel Assisted History Matching, Petrel Well Design, Petrel Workflow Editor, ECLIPSE, MEPO, tNavigator. 
 - Working knowledge of PVTSIM, PIPESIM, PVTi. 
-- Developed several data science solutions for oil/gas industry. 
-- Published papers in data science and its applications in various areas: enhanced oil recovery, gas well surveillance, drilling fluid formulation, assisted history matching, reservoir simulation, and others. 
-- Excellent training and mentoring skills. 
-- Speaks English like a native speaker. Highly trained in applied mathematics: numerical mathematics, statistics, probability. 
 - Previously a Schlumberger NeXT Certified Instructor for reservoir simulation and a Chartered Mathematician.
+
 
 ## Education
 - **Doctor of Philosophy**, Petroleum Engineering, 2018, University of Technology PETRONAS, Malaysia
