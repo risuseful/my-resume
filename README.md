@@ -11,7 +11,7 @@ https://orcid.org/0000-0002-1039-6163
 - Proficient in Petrel Reservoir Engineering, Petrel Assisted History Matching, Petrel Well Design, Petrel Workflow Editor, ECLIPSE, MEPO, tNavigator. 
 - Working knowledge of PVTSIM, PIPESIM, PVTi. 
 - Developed several data science solutions for oil/gas industry. 
-- Published papers in data science and its applications in various areas; Publications areas: enhanced oil recovery, gas well surveillance, drilling fluid formulation, assisted history matching, reservoir simulation, and others. 
+- Published papers in data science and its applications in various areas: enhanced oil recovery, gas well surveillance, drilling fluid formulation, assisted history matching, reservoir simulation, and others. 
 - Excellent training and mentoring skills. 
 - Speaks English like a native speaker. Highly trained in applied mathematics: numerical mathematics, statistics, probability. 
 - Previously a Schlumberger NeXT Certified Instructor for reservoir simulation and a Chartered Mathematician.
