@@ -91,6 +91,11 @@ https://github.com/risuseful/
 18.	**Akmal Aulia**, Kun Marhadi, Afrildo Iko Syahrial, Arifandy Aulia, "Role of Computational Science in the Indonesian Science and Technology Progress", Indonesian Education Symposium, Consulate General of Indonesia - Los Angeles, Saturday, 31 Mei 2008.
 19.	S. R. Alla, **A. Aulia**, S. Kumar and R. Garg, "Using hybrid GA-ANN to predict biological activity of HIV protease inhibitors," 2008 IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology, 2008, pp. 249-255, doi: 10.1109/CIBCB.2008.4675787.
 
+## Certifications
+- Chartered Mathematician, Insitute of Mathematics and Its Applications, UK
+- Certified Proficiency in Information Systems Management, Aptech Computer Education
+- TensorFlow Developer Professional Certificate, deeplearning.ai
+
 ## Publications at Schlumberger
 - [InTouch ID 6153248] Petrel RE Workflow Editor: Computing Yearly Average Oil Production Cumulative
 - [InTouch ID 6153955] Petrel RE Workflow Editor: Convert COMPDAT's "I J K1 K2" values into "X Y Z"values
