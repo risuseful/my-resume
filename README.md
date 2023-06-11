@@ -98,7 +98,7 @@ https://orcid.org/0000-0002-1039-6163
 
 ## Certifications
 - Chartered Mathematician, Insitute of Mathematics and Its Applications, UK
-- Certified Proficiency in Information Systems Management, Aptech Computer Education
+- Certificate of Proficiency in Information Systems Management, Aptech Computer Education
 - TensorFlow Developer Professional Certificate, deeplearning.ai
 
 ## Publications at Schlumberger
