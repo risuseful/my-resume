@@ -21,9 +21,9 @@ https://orcid.org/0000-0002-1039-6163
 ## Education
 - **Doctor of Philosophy**, Petroleum Engineering, 2018, University of Technology PETRONAS, Malaysia
 - **Master of Science**, Computational Science, 2010, San Diego State University, USA
-- _N/A_, Computational Science, 2007, Claremont Graduate University, USA
 - **Master of Science**, Information Technology, 2008, Heriot-Watt University, Malaysia/UK
 - **Bachelor of Engineering**, Chemical Engineering, 2003, Institute of Technology Bandung, Indonesia
+- _N/A_, Computational Science, 2007, Claremont Graduate University, USA
 
 
 ## Professional Experience
