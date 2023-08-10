@@ -29,6 +29,7 @@ https://orcid.org/0000-0002-1039-6163
 ## Professional Experience
 ### Carigali Hess Operating Company Sdn Bhd, Malaysia. 
 **Reservoir Engineer**, Jan 2020 - Present  
+- Bumi Shallow reserves exercise, ie. 1P and 2P dynamic model validation and forecasting.
 - Perform well location optimization for Bumi Shallow using tNavigator and Python.  Creaming curve was generated for 1000s of wells on a depleted brown field to seek hard-to-identify undrained areas/sequences.
 - Recommends well works to production engineers and well services; isolating water producing zones based on latest RST/PLT tests, sand cleanout, lifting of liquid holdups with CTU / foam sticks.
 - Developed analytics-based computer programs for gas well surveillance objectives.  The app was built using Python and streamlit library, with the machine learning model running in the backend in the form of a joblib file.  Users can adjust any well choke size and quickly get the total production rate of the entire facility using machine learning.
