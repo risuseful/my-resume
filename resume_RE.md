@@ -1,4 +1,3 @@
-
 # Akmal Aulia, PhD
 
 Website 1: https://github.com/risuseful/my-resume/
@@ -65,14 +64,14 @@ Specialist Reservoir Engineer and PhD in Petroleum Engineering with 10 years wor
 - Taught reservoir engineering and engineering mathematics to undergraduate engineering students.
 - Contributed to document preparations for university accreditations effort.
   
-### Reservoir engineer at Carigali Hess Operating Company Sdn Bhd, Malaysia.
+### Reservoir Engineer at Carigali Hess Operating Company Sdn Bhd, Malaysia.
 
 **Nov 2014 to Jul 2016**	
 
 - Main responsibilities include uncertainty analysis on short and long-term gas production forecast pertaining to planned/unplanned shutdowns, economics analysis on desander projects, and developed Visual Basic-based computer programs to automate report generations related to gas production forecast.
   
 
-### Reservoir engineer at Schlumberger in Malaysia.
+### Reservoir Engineer at Schlumberger in Malaysia.
 
 **Jan 2012 to Aug 2014**	
 
@@ -116,27 +115,38 @@ Produced more papers than showcased above, highlighting extensive contributions 
 - [InTouch ID 6297032] Petrel RE: Computing Normalized Pressures distribution
 - [InTouch ID 6307677] MEPO: Non-statistician's Guide to the Theory and Practice of Markov Chain Monte Carlo for Assisted History Matching
   
-## Training Courses		
+## Training Courses
 
-Reservoir Simulation Intensive Course I (1 month), Abingdon, UK, Schlumberger, 2012.
-	Reservoir Simulation Intensive Course II (1 month), Abu Dhabi, UAE, Schlumberger, 2013.
-	Reservoir Simulation Intensive Course III (1 month), Houston, USA, Schlumberger, 2014.
-	Petrel Geology and Reservoir Engineering Workflow; Uncertainty Analysis and Optimization (3 days), Kuala Lumpur, Schlumberger, Oct 2023
-	tNavigator Reservoir Simulation (assisted history matching, workflow, Python scripting); 3 days course, Kuala Lumpur, Rock Flow Dynamics, Nov 2023
-Software Skills		Software: Petrel Reservoir Engineering, Petrel Well Design, Petrel Assisted History Matching, Petrel Workflow Editor, ECLIPSE Black Oil and Compositional, tNavigator, MEPO, PIPESIM, PVTSIM, Kappa (Saphir, Topaze, Rubis),
-	General: Word, Excel VBA, PowerPoint, Windows, Linux, Mac OS, Tableau, Adobe Photoshop
-	Data science: R, Python, MATLAB, SQL, streamlit, ETL, pandas, numpy, scikit-learn, tensorflow, deep learning, NLP, LSTM, Random Forests, XGboost, GA, clustering, naïve bayes, feature selection, regression, WEKA, C, C++, Fortran
-Certifications		TensorFlow Developer Professional Certificate, deeplearning.ai
-	Chartered Mathematician, Institute of Mathematics and Its Applications, UK
-Languages	English: Fluent
-Arabic: Basic
-Indonesian: Mother tongue
-Awards		Schlumberger Information Solutions Rewards of Excellence, Kuala Lumpur, Malaysia, November 2013
-	Schlumberger PBS Bronze Award, Kuala Lumpur, Malaysia, June 2013
-	Schlumberger Information Solutions Rewards of Excellence, Kuala Lumpur, Malaysia, May 2013
-	Schlumberger Information Solutions Rewards of Excellence, Kuala Lumpur, Malaysia, January 2013
-	Schlumberger HSE-RIR Top Submitter, Kuala Lumpur, Malaysia, June 2012
-	Schlumberger Information Solutions Rewards of Excellence, Kuala Lumpur, Malaysia, June 2012
-	Chevron Scholarship Recipient, Riau, Indonesia, 1996
-	Mathematical Excellence Award, Dallas, Texas, 1992
+- Reservoir Simulation Intensive Course I (1 month), Abingdon, UK, Schlumberger, 2012.
+- Reservoir Simulation Intensive Course II (1 month), Abu Dhabi, UAE, Schlumberger, 2013.
+- Reservoir Simulation Intensive Course III (1 month), Houston, USA, Schlumberger, 2014.
+- Petrel Geology and Reservoir Engineering Workflow; Uncertainty Analysis and Optimization (3 days), Kuala Lumpur, Schlumberger, Oct 2023
+- tNavigator Reservoir Simulation (assisted history matching, workflow, Python scripting); 3 days course, Kuala Lumpur, Rock Flow Dynamics, Nov 2023
+  
+## Software Skills
+
+**Software:** Petrel Reservoir Engineering, Petrel Well Design, Petrel Assisted History Matching, Petrel Workflow Editor, ECLIPSE Black Oil and Compositional, tNavigator, MEPO, PIPESIM, PVTSIM, Kappa (Saphir, Topaze, Rubis)
+
+**General:** Word, Excel VBA, PowerPoint, Windows, Linux, Mac OS, Tableau, Adobe Photoshop
+
+**Data science:** R, Python, MATLAB, SQL, streamlit, ETL, pandas, numpy, scikit-learn, tensorflow, deep learning, NLP, LSTM, Random Forests, XGboost, GA, clustering, naïve bayes, feature selection, regression, WEKA, C, C++, Fortran
+
+## Certifications
+- TensorFlow Developer Professional Certificate, deeplearning.ai
+- Chartered Mathematician, Institute of Mathematics and Its Applications, UK
+
+## Languages
+- English: Fluent
+- Arabic: Basic
+- Indonesian: Mother tongue
+
+## Awards
+- Schlumberger Information Solutions Rewards of Excellence, Kuala Lumpur, Malaysia, November 2013
+- Schlumberger PBS Bronze Award, Kuala Lumpur, Malaysia, June 2013
+- Schlumberger Information Solutions Rewards of Excellence, Kuala Lumpur, Malaysia, May 2013
+- Schlumberger Information Solutions Rewards of Excellence, Kuala Lumpur, Malaysia, January 2013
+- Schlumberger HSE-RIR Top Submitter, Kuala Lumpur, Malaysia, June 2012
+- Schlumberger Information Solutions Rewards of Excellence, Kuala Lumpur, Malaysia, June 2012
+- Chevron Scholarship Recipient, Riau, Indonesia, 1996
+- Mathematical Excellence Award, Dallas, Texas, 1992
 
