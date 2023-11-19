@@ -84,10 +84,10 @@ Specialist Reservoir Engineer and PhD in Petroleum Engineering with 10 years wor
 
   
 ## Education	
-- PhD in Petroleum Engineering, University of Technology PETRONAS, Malaysia (2018)
-- MSc in Computational Science, San Diego State University, USA (2010)
-- MSc in Information Technology, Heriot-Watt University, UK (2008)
-- BEng in Chemical Engineering, Institute of Technology Bandung, Indonesia (2003)
+- **PhD in Petroleum Engineering**, University of Technology PETRONAS, Malaysia (2018)
+- **MSc in Computational Science**, San Diego State University, USA (2010)
+- **MSc in Information Technology**, Heriot-Watt University, UK (2008)
+- **BEng in Chemical Engineering**, Institute of Technology Bandung, Indonesia (2003)
 
 ## Publications	Journal and Conferences
 1.	Sitravellu, B.R., Yagoub, S.A.M., Aulia, A., Hasiholan, B., Mukhtar, Y.M.F. (2023). Comparative Study of Variance-Based and One-Parameter-At-A-Time Sensitivity Analysis Method for Polymer Flood Performance History Matching. In: Lin, J. (eds) Proceedings of the International Field Exploration and Development Conference 2022. IFEDC 2022. Springer Series in Geomechanics and Geoengineering. Springer, Singapore.
