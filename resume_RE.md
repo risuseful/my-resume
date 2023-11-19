@@ -125,11 +125,11 @@ Produced more papers than showcased above, highlighting extensive contributions 
   
 ## Software Skills
 
-**Software:** Petrel Reservoir Engineering, Petrel Well Design, Petrel Assisted History Matching, Petrel Workflow Editor, ECLIPSE Black Oil and Compositional, tNavigator, MEPO, PIPESIM, PVTSIM, Kappa (Saphir, Topaze, Rubis)
+- **Software:** Petrel Reservoir Engineering, Petrel Well Design, Petrel Assisted History Matching, Petrel Workflow Editor, ECLIPSE Black Oil and Compositional, tNavigator, MEPO, PIPESIM, PVTSIM, Kappa (Saphir, Topaze, Rubis)
 
-**General:** Word, Excel VBA, PowerPoint, Windows, Linux, Mac OS, Tableau, Adobe Photoshop
+- **General:** Word, Excel VBA, PowerPoint, Windows, Linux, Mac OS, Tableau, Adobe Photoshop
 
-**Data science:** R, Python, MATLAB, SQL, streamlit, ETL, pandas, numpy, scikit-learn, tensorflow, deep learning, NLP, LSTM, Random Forests, XGboost, GA, clustering, naïve bayes, feature selection, regression, WEKA, C, C++, Fortran
+- **Data science:** R, Python, MATLAB, SQL, streamlit, ETL, pandas, numpy, scikit-learn, tensorflow, deep learning, NLP, LSTM, Random Forests, XGboost, GA, clustering, naïve bayes, feature selection, regression, WEKA, C, C++, Fortran
 
 ## Certifications
 - TensorFlow Developer Professional Certificate, deeplearning.ai
