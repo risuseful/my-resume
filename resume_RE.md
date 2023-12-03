@@ -1,6 +1,6 @@
 # Akmal Aulia, PhD
 
-Website 1: https://github.com/risuseful/my-resume/
+Website 1: https://github.com/risuseful
 
 Website 2: https://orcid.org/0000-0002-1039-6163
 
