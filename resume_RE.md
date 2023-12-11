@@ -20,7 +20,7 @@ Specialist Reservoir Engineer and PhD in Petroleum Engineering with 10 years wor
 ## Personal Profile
 
 **Personal Specification:**
-- Creative thinker with a desire to challenge the status quo and conventional thinking with the ability to implement new ideas, processes, and technologies.
+- Creative thinker with the ability to implement new ideas, processes, and technologies.
 - Strong analytical and problem-solving capabilities with the ability to make technically and economically sound recommendations with incomplete information and tight deadlines.
 - Good team player with strong interpersonal skills with experience working in a multi-discipline team environment.
 - Strong communication skills with ability to effectively share information to mentor/develop others.
