@@ -42,6 +42,7 @@ Specialist Reservoir Engineer and PhD in Petroleum Engineering with 10 years wor
   - Performing a comparison between analytical and simulation performance by reservoir for each of the infill wells to narrow down the uncertainty and risk.
   - Optimizing simulation run time, initializing the simulation model, and performing volumetric comparison between static and dynamic models.
   - Work with production engineers to ensure vertical lift performance cover realistic range of pressures, rates, and water gas ratio.
+  - Collaborate with chemical engineers and HSE engineers to come up with official GHG (green-house gas).
 - Conduct long-term gas production forecast for yearly Work Program and Budget.  Main duties are:
   - Coupled standalone reservoir models from all reservoir engineers with the pipeline network, i.e., reservoir coupling.
   - Conduct history matching of pressure loss of pipelines using PIPESIM.
