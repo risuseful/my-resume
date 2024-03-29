@@ -57,6 +57,7 @@ Specialist Reservoir Engineer and PhD in Petroleum Engineering with 10 years wor
   - Generate well-by-well forecast (using artificial intelligence) of gas rate production and water production.
   - Developed a sequence stratigraphy simulator for seismic inversion using Python.  The simulator allows a geophysicist to control the geological-time sea level changes and sand rate deposition, which helps in understanding how the sand developed throughout time.
   - Participated in APGCE GEOHack competition, applications of artificial intelligence in well log interpretation.
+  - Build Power BI dashboards for production monitoring (direct connection to SQL server) and well downtime analysis.
 
 ### Assistant Professor (Petroleum Engineering) at Heriot-Watt University in Malaysia.
 
